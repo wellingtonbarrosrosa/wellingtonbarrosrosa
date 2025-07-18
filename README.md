@@ -65,11 +65,6 @@
 
 ---
 
-## 🐍 Snake Game de Contribuições
-
-![Snake animation](https://github.com/wellingtonbarrosrosa/wellingtonbarrosrosa/blob/output/github-contribution-grid-snake.svg)
-
-🎯 Ative esse recurso com GitHub Actions seguindo o [Guia do Snake Game](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/personalization.md)
 
 ---
 
